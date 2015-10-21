@@ -1,0 +1,60 @@
+﻿Allon Hadaya
+18 Dodworth St. #3L • Brooklyn, NY 11221 • 203.830.9319 • self@allon.nyc • allon.nyc/portfolio
+
+SOFTWARE DEVELOPER
+
+Passionate programmer with over nine years of personal, academic, and professional experience. Versed in software engineering practices. Interested in new ways of thinking about computing and the development process. Excels in team settings.
+
+Skills Include:
+Software Architecture
+Web Scraping
+Web Development
+Compiler Development
+Containerization
+Deployment
+Version Control
+Pair Programming
+Automated Testing
+
+Technology Summary
+
+Programming:
+C#, Python, Go, Java, JavaScript, Bash, SQL, HTML, CSS, Regular Expressions
+Systems:
+Linux, Ubuntu, Windows, Browser
+
+Professional Experience
+
+kidmech (Robotic Entertainment) • New York, NY • July '15 – Current
+
+Theater Group Update (Data transformation tool) • New York, NY • March '15 – April '15
+
+Responsibilities:
+Worked with non-programmer client to define requirements.
+Created a design that was amenable to handling changes in the data domain.
+Trained client to update the tool for when said changes occurred.
+Results:
+Saved approximately forty man-hours per week of manual data processing and updating.
+Allowed client to feel confident in the output of the program.
+Eased business processes by making frequent data updates a possibility.
+
+appFigures (Sales analytics for app developers) • New York, NY • July '11 – September '14
+
+Responsibilities:
+Designed and built software for a wide range of business needs, working with existing and new code.
+Diagnosed and debugged reported issues in a production environment, communicating with clients to resolve their concerns.
+Deployed code to live user-facing and back-end services.
+
+Results:
+Implemented services to download, parse, and store data from the iTunes Connect EPF system, AdMob, Windows Phone App Store, and Windows Store.
+Implemented a front-end logging library which efficiently fed into back-end logging infrastructure.
+Implemented error monitoring using the above decoupled logging library for JavaScript.
+Decoupled the JS code base with a proprietary state management library.
+Overhauled a core data importing library, from a single-source design to a multi-source design.
+Implemented an annotation based integration test framework for isolated database environments.
+
+Education
+
+PACE UNIVERSITY – New York, NY – BS in Computer Science, 2010-2012 (partial)
+
+## this file is generated and tracked to produce more meaningful diffs ##

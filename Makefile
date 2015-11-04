@@ -8,6 +8,12 @@ install: resume_allon_hadaya.pdf
 clean:
 	rm -f resume_allon_hadaya.pdf resume_allon_hadaya.docx resume_allon_hadaya.txt
 
+edit: editor resume_allon_hadaya.pdf resume_allon_hadaya.docx resume_allon_hadaya.txt
+
+.PHONY: editor
+editor:
+	xdg-open resume_allon_hadaya.odt
+
 resume_allon_hadaya.pdf: resume_allon_hadaya.odt
 	libreoffice --headless --convert-to pdf resume_allon_hadaya.odt
 

@@ -10,7 +10,7 @@ Software Architecture
 Web Scraping
 Web Development
 Compiler Development
-Containerization
+System Administration
 Deployment
 Version Control
 Pair Programming
@@ -19,13 +19,13 @@ Automated Testing
 Technology Summary
 
 Programming:
-C#, Python, Go, Java, JavaScript, Bash, SQL, HTML, CSS, Regular Expressions
+Python, Go, JavaScript, C#, Java, Bash, SQL, HTML, CSS, Regular Expressions
 Systems:
-Linux, Ubuntu, Windows, Browser
+Linux, Ubuntu, Windows, Web
 
 Professional Experience
 
-kidmech (Robotic Entertainment) • New York, NY • July '15 – Current
+Kid Mech (Robotic Entertainment) • New York, NY • July '15 – Current
 
 Theater Group Update (Data transformation tool) • New York, NY • March '15 – April '15
 

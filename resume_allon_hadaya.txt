@@ -16,27 +16,19 @@ Version Control
 Pair Programming
 Automated Testing
 
-Technology Summary
-
-Programming:
-Python, Go, JavaScript, C#, Java, Bash, SQL, HTML, CSS, Regular Expressions
-Systems:
-Linux, Ubuntu, Windows, Web
-
 Professional Experience
+
+Think Empire (Real Estate Analytics) • New York, NY • November '15 – Current
+
+	Think Empire is an internal analytics tool for a New York City brokerage and investment fund. My role on this project has been twofold: 1) establishing product specifications and objectives with stakeholders, and 2) taking care of implementation and system administration. The infrastructure for the application is described as discrete services using docker, and is deployed to a cloud instance. The core application is written in python and html-css-js.
 
 Kid Mech (Robotic Entertainment) • New York, NY • July '15 – Current
 
+	Kid Mech is a collaborative game in which players view and control a pair of real-life robots, attempting to earn points for the robot they want to win. The game is built on top of twitch.tv, and implemented across a handful of environments: golang, c, and html-css-js. As sole developer on the project, my role is to assess and implement all software requirements.
+
 Theater Group Update (Data transformation tool) • New York, NY • March '15 – April '15
 
-Responsibilities:
-Worked with non-programmer client to define requirements.
-Created a design that was amenable to handling changes in the data domain.
-Trained client to update the tool for when said changes occurred.
-Results:
-Saved approximately forty man-hours per week of manual data processing and updating.
-Allowed client to feel confident in the output of the program.
-Eased business processes by making frequent data updates a possibility.
+	Theater Group Update is a data transformation tool designed to replace a more manual excel based approach. It is written in python, and designed to be extensible by its non-technical users.
 
 appFigures (Sales analytics for app developers) • New York, NY • July '11 – September '14
 

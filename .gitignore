@@ -1,2 +1,5 @@
-resume_allon_hadaya.pdf
-resume_allon_hadaya.docx
+AllonHadayaResume.pdf
+*.aux
+*.log
+*.out
+*.swp
